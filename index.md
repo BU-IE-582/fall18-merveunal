@@ -1,14 +1,9 @@
-
-# Example Progress Journal
-
-
-
-## Week 0 (October 2)
+theme: jekyll-theme-cayman
 
 
 
+title: Merve Unal Progress Journal
 
-[Here]( Files/interesting_examples.html ) is my 5 interesting R examples. 
 
-    
-    
+
+Description: IE 582 Fall 2018 - Bogazici University
