@@ -1,7 +1,5 @@
-theme: jekyll-theme-cayman
+# Example Progress Journal
 
+## Week 0 (October 2)
 
-title: Merve Unal Progress Journal
-
-
-Description: IE 582 Fall 2018 - Bogazici University
+[Here](Files/interesting_examples.html) is my interesting R examples
