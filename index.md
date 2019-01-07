@@ -26,4 +26,4 @@
 
 ## Project
 
-[Here](Files/IE582_PROJECT.html) is  my Homework 5
+[Here](Files/IE582_PROJECT.html) is  our project
